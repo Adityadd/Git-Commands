@@ -1,4 +1,4 @@
-#Git commands
+# Git commands
 
 1. `git init`
     creates a local repo in current directory
